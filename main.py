@@ -34,7 +34,7 @@ def track_phone_number(phone_number):
         }
 
 # Example phone number (replace with the actual phone number)
-phone_number = "+254727177155"  # Format should include country code
+phone_number = "+254701122567"  # Format should include country code
 location_info = track_phone_number(phone_number)
 
 print(location_info)
